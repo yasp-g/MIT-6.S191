@@ -2,7 +2,7 @@
 
 This repo contains all of the labs completed as a part of MIT 6.S191 Introduction to Deep Learning.
 
-## Lab 1
+## Lab 1. Deep Sequence Modeling
 
 ### Part 1: TensorFlow
 
@@ -17,9 +17,9 @@ Following hyperparameter tuning, the model was reconfigured to generate a new ir
 be played at the end of the notebook.
 
 
-## Lab 2:
+## Lab 2. Deep Computer Vision and Deep Generative Modeling
 
-### Part 1: MNITS
+### Part 1: MNIST
 
 Convolutional neural network.
 
