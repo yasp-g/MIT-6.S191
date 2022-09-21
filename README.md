@@ -19,4 +19,8 @@ be played at the end of the notebook.
 
 ## Lab 2:
 
-### 
+### Part 1: MNITS
+
+Convolutional neural network.
+
+### Part 2: Debiasing
