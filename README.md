@@ -21,6 +21,10 @@ be played at the end of the notebook.
 
 ### Part 1: MNIST
 
-Convolutional neural network.
+In this lab the famous MNIST dataset was approached using three different ML techniques. First, a standard single hidden 
+layer, densely connected NN was built and trained to a test accuracy of ~96.5%. Then a convolutional neural network (CNN) 
+consisting of multiple layers on convolution together with max-pooling was built and trained to a test accuracy of 
+~99.0%. Finally, this same CNN model architecture was trained again, this time using a lower level tf.GradientTape 
+approach, to a test accuracy of ~98.3.
 
 ### Part 2: Debiasing
