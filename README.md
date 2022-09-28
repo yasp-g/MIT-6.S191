@@ -29,8 +29,8 @@ approach, to a test accuracy of ~98.3.
 
 ### Part 2: Debiasing (DB-VAE)
 
-This lab explores the concept of debiasing, following the approach outlined in Uncovering and Mitigating Algorithmic Bias 
-Through Learned Latent Structure (Amini, 2019).
+This lab explores the concept of debiasing, following the approach outlined in Uncovering and [Mitigating Algorithmic 
+Bias Through Learned Latent Structure (Amini, 2019).](http://introtodeeplearning.com/AAAI_MitigatingAlgorithmicBias.pdf)
 
 First, two datasets, a set of face images and a set of images that are not faces, are used to train a facial detection 
 model. This model is then evaluated using a third, seperate, test dataset containing face images with equal representation 
